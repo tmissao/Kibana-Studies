@@ -57,8 +57,3 @@ Index patterns tell Kibana which Elasticsearch indices to query in order to buil
 ---
 
 - Kibana has limited support for the nested datatype
-
-## Utils
----
-
-- ``
