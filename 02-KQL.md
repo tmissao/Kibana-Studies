@@ -249,7 +249,7 @@ By using not operator it is possible to invert the logic of the entire group.
 ```bash
 
 #Kibana
-not http.response.status_code:200 and not ( url.path:"/brands" or url.path:"/brands/fischer" )
+http.response.status_code:200 and not ( url.path:"/brands" or url.path:"/brands/fischer" )
 
 #Elastic
 {
