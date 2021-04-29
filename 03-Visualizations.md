@@ -65,3 +65,8 @@ Kibanas enables to create a series of visualizations, tables, heat maps, pie cha
 ---
 
 ![Cloud Tags](./artifacts/03-CreatingCloudTagsVisualization.gif)
+
+## Goal / Gauge Visualization
+---
+
+![Goal](./artifacts/03-CreatingGoalGaugesVisualization.gif)
