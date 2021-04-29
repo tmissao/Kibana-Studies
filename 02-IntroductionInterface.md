@@ -60,3 +60,35 @@ Kibana allows to specify data ranges when dealing with maps, for that reason it 
 
 ![DateFilter](./artifacts/02-DateFilter.png)
 
+## Timezones
+---
+
+Kibana automatically handles the timezone, formating the date object in the ISO 8601 standard. By default Kibana uses the browser timezone.
+
+Also, Kibana handles the timezone on the data displayed on tables and visualizations.
+
+![Timezone](./artifacts/02-Timezone.png)
+
+- `Overwriting the Time Zone`
+
+![Timezone](./artifacts/02-OverwritingTimeZone.gif)
+
+## Saving Queries
+---
+
+First of all, saving queries is totally different than save a search
+
+- `Saving Queries` - just saves KQL and filters
+
+- `Saving Searches` - saves KQL, filters and the state on the discovery app, like: sort orders, table fields etc
+
+![DateFilter](./artifacts/02-SavingQueries.png)
+
+## Inspecting Queries
+---
+
+Kibana allows to inspect the queries executed on elasticsearch
+
+
+![InspectQueries](./artifacts/02-InspectingQueries.gif)
+
