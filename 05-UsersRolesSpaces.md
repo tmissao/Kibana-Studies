@@ -25,3 +25,7 @@ For example: It is possible to have two spaces: `Developers` and `Business`, and
 ---
 
 Allow users to performs action inside Elastic Stack 
+
+- `Creating Custom Role and Assign to New User`
+
+![Creating Users](./artifacts/05-CreatingUsers.gif)
