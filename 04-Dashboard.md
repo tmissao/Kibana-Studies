@@ -13,4 +13,6 @@ Drilldown is a way to navigate from one dashboard to another retaining the conte
 
 ![Drilldown](./artifacts/04-Drilldowns.png)
 
+- `Creating a Drilldown`
+
 ![Creating DrillDown](./artifacts/04-DrillDowns.gif)
